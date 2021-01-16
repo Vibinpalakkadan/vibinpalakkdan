@@ -1,9 +1,10 @@
-[
+{
+"posts":[
     {
       "userId": 1,
       "id": 1,
-      "title": "hello, vibin",
-      "body": "yes , i'm a hero"
+      "title": "hello vibin",
+      "body": "yes , iam a hero"
     },
     {
       "userId": 2,
@@ -17,7 +18,6 @@
       "title": "ooohhh",
       "body": "Passie solution"
     },
-    
     {
       "userId": 4,
       "id": 9,
@@ -27,7 +27,8 @@
     {
         "userId": 5,
         "id": 9,
-        "title": "yes...yess..",
-        "body": "You can trust me very well, its me vibin"
+        "title": "yes yess",
+        "body": "You can trust me very well its me vibin"
     }
-]    
+]
+}    
