@@ -31,4 +31,36 @@
         "body": "You can trust me very well its me vibin"
     }
 ]
+    "Author":[
+    {
+      "id": 1,
+      "name": "hello vibin",
+      "bio": "yes , iam a hero",
+      "age": 12
+    },
+     {
+      "id": 2,
+      "name": "Palakkdan",
+      "bio": "iam a hero",
+      "age": 14
+    },
+     {
+      "id": 3,
+      "name": "Passie solution",
+      "bio": "A startup it company",
+      "age": 1
+    },
+     {
+      "id": 4,
+      "name": "No name",
+      "bio": "Un identified perosnality",
+      "age": 20
+    },
+     {
+      "id": 5,
+      "name": "Trumph",
+      "bio": "Former American president",
+      "age": 68
+    }
+]
 }    
