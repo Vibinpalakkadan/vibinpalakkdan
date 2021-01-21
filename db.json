@@ -1,37 +1,5 @@
 {
-"posts":[
-    {
-      "userId": 1,
-      "id": 1,
-      "title": "hello vibin",
-      "body": "yes , iam a hero"
-    },
-    {
-      "userId": 2,
-      "id": 2,
-      "title": "Vbn",
-      "body": "I am vibin"
-    },
-    {
-      "userId": 3,
-      "id": 3,
-      "title": "ooohhh",
-      "body": "Passie solution"
-    },
-    {
-      "userId": 4,
-      "id": 4,
-      "title": "mmm",
-      "body": "How i trust you?, I'm vibin"
-    },
-    {
-        "userId": 5,
-        "id": 5,
-        "title": "yes yess",
-        "body": "You can trust me very well its me vibin"
-    }
-]
-    "Author":[
+   "Author":[
     {
       "id": 1,
       "name": "hello vibin",
